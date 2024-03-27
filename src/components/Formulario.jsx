@@ -1,7 +1,7 @@
 const Formulario = () =>{
     return (
         
-             <div className="col-md-5 mt-2">
+        <div className="col-md-5 mt-2">
           <div className="card">
             <div className="card-header">
                Formulario
